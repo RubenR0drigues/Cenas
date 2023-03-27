@@ -1,0 +1,20 @@
+/* Color Theme Swatches in Hex */
+.Preto-e-amarelo-1-hex { color: #52524F; }
+.Preto-e-amarelo-2-hex { color: #FBFEED; }
+.Preto-e-amarelo-3-hex { color: #FFD051; }
+.Preto-e-amarelo-4-hex { color: #FF9E00; }
+.Preto-e-amarelo-5-hex { color: #000000; }
+
+/* Color Theme Swatches in RGBA */
+.Preto-e-amarelo-1-rgba { color: rgba(82, 82, 79, 1); }
+.Preto-e-amarelo-2-rgba { color: rgba(251, 253, 237, 1); }
+.Preto-e-amarelo-3-rgba { color: rgba(255, 207, 80, 1); }
+.Preto-e-amarelo-4-rgba { color: rgba(255, 158, 0, 1); }
+.Preto-e-amarelo-5-rgba { color: rgba(0, 0, 0, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Preto-e-amarelo-1-hsla { color: hsla(0, 1, 31, 1); }
+.Preto-e-amarelo-2-hsla { color: hsla(0, 89, 96, 1); }
+.Preto-e-amarelo-3-hsla { color: hsla(0, 100, 65, 1); }
+.Preto-e-amarelo-4-hsla { color: hsla(0, 100, 50, 1); }
+.Preto-e-amarelo-5-hsla { color: hsla(0, 0, 0, 1); }
